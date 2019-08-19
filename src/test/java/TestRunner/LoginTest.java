@@ -1,9 +1,12 @@
+package TestRunner;
+
 import Pages.LoginPage;
 import SingletonExample.ConfigLoader;
+import TestRunner.Hooks;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-public class Login extends Hooks{
+public class LoginTest extends Hooks {
     WebDriver driver;
 
 
