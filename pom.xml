@@ -54,11 +54,11 @@
             <artifactId>webdrivermanager</artifactId>
             <version>3.6.2</version>
         </dependency>
-       <!-- <dependency>
+       <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
-            <version>2.50.0</version>//Your chrome driver version
-        </dependency>-->
+            <version>2.50.0</version>
+        </dependency>
 
 
     </dependencies>

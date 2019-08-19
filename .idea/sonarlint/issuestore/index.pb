@@ -9,8 +9,6 @@ V
 -src/main/java/HotelDomain/BookingDetails.java,3\0\30cd9b8f65fbef0ad34e915cbeb97b962a3f2618
 `
 0src/main/java/SingletonExample/ConfigLoader.java,b\e\be0c957a4d82990cdc6ae739c63ec4729a2a59af
-H
-src/test/java/Login.java,d\9\d9ed0dc2b32ccffe6540ee4aee6f0290bbe22c5a
 Q
 !src/main/java/Pages/HomePage.java,5\8\58669258601a386d94ea9f074af65855416d87fc
 v
