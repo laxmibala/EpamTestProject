@@ -11,6 +11,7 @@ public class Browsers {
 
    private Browsers(){
        WebDriverManager.chromedriver().setup();
+       System.out.println(WebDriverManager.chromedriver().getBinaryPath());
        driver=new ChromeDriver();
     }
 
