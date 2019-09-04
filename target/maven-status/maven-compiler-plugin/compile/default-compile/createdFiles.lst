@@ -1,12 +1,11 @@
 Pages\AbstractPage.class
 Utilities\Constants.class
 FactoryDesignPatternExample\BookHotelAndPayLater.class
-Utilities\Constants$Rooms.class
+FactoryDesignPatternExample\BookHotelByPayInAdvance.class
+SingletonExample\ConfigLoader.class
 HotelDomain\BookingDetails.class
 FactoryDesignPatternExample\FindBestHotel.class
 SingletonExample\Browsers.class
-Pages\HomePage.class
-FactoryDesignPatternExample\BookHotelByPayInAdvance.class
-SingletonExample\ConfigLoader.class
 Pages\LoginPage.class
+Pages\HomePage.class
 FactoryDesignPatternExample\BookHotel.class
