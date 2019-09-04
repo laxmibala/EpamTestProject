@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Test Exclusion Suite">
-    <test name="Exclusion Test" >
+<suite name="Test Suite">
+    <test name="Test" >
         <packages>
             <package name="TestRunner">
             </package>

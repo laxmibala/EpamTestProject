@@ -8,7 +8,7 @@ public class BookHotelAndPayLater extends FindBestHotel implements BookHotel {
         BookingDetails bookingDetails;
         bookingDetails = new BookingDetails();
         searchHotel(bookingDetails);
-        selectNearestHotel(bookingDetails.getPlace());
+        //selectNearestHotel(bookingDetails.getPlace());
         confirmBooking();
     }
 

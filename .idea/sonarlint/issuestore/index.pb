@@ -17,3 +17,13 @@ s
 Csrc/main/java/FactoryDesignPatternExample/BookHotelAndPayLater.java,1\a\1a57d74ea94964479c2f9b398d2213af1e44cc6f
 l
 <src/main/java/FactoryDesignPatternExample/FindBestHotel.java,e\b\eb77d79594c541c5d43399b481d46516a152dea2
+]
+-src/test/java/TestRunner/ApplicationTest.java,8\2\8270dd44299884cb71daec991c3e6341243ec83e
+R
+"src/main/java/Pages/LoginPage.java,7\d\7d6909abd1618b61ed66eed25cfd3442b57cd6ef
+S
+#src/test/java/TestRunner/Hooks.java,e\9\e94558ad7e88270ea41c3855db1be0ff1f2cea6a
+\
+,src/main/java/SingletonExample/Browsers.java,7\d\7d45a7014a666914f27bac804002bceeb0a7d56e
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

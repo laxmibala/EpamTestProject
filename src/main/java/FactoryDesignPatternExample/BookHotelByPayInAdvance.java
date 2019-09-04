@@ -9,7 +9,7 @@ public class BookHotelByPayInAdvance extends FindBestHotel implements BookHotel 
         BookingDetails bookingDetails;
         bookingDetails = new BookingDetails();
         searchHotel(bookingDetails);
-        selectHighestRatingHotel();
+        //selectHighestRatingHotel();
         payForBooking();
         confirmBooking();
     }

@@ -2,10 +2,21 @@ package FactoryDesignPatternExample;
 
 public class FindBestHotel {
 
+    String byGuestRating;
+    String byAccomodationType;
+    String byPrice;
 
-    public void selectHighestRatingHotel(){}
+    public String getByGuestRating() {
+        return byGuestRating;
+    }
 
-    public void selectNearestHotel(String location){}
+    public String getByAccomodationType() {
+        return byAccomodationType;
+    }
+
+    public String getByPrice() {
+        return byPrice;
+    }
 
 
 
