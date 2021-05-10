@@ -11,7 +11,9 @@ public class ConfigLoader {
     private static String url;
     private ConfigLoader(){
         try{
-            FileInputStream inputStream =new FileInputStream("C:\\Users\\laxmi_bala\\Desktop\\Laxmi\\Project\\EpamTestProject\\src\\main\\resources\\appliation.properties");
+           String projectDir = System.getProperty("user.dir");
+           System.out.println(projectDir);
+            FileInputStream inputStream =new FileInputStream(projectDir + "\\src\\main\\resources\\appliation.properties");
             Properties prop =new Properties();
             prop.load(inputStream);
             setUsername(prop.getProperty("user"));

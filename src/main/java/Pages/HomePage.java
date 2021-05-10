@@ -55,10 +55,10 @@ public class HomePage extends AbstractPage {
         closeBtn.click();
         selectCheckInDate();
         selectCheckOutDate();
-        selectRooms(bookingDetails.getRoomType());
+       // selectRooms(bookingDetails.getRoomType());
         searchBtn.click();
         logger.info("Hotel search successfully");
-        setHotelPricePerNight();
+        //setHotelPricePerNight();
 
     }
 

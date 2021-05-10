@@ -2,27 +2,29 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Suite" duration-ms="14976" started-at="2019-09-04T09:43:00Z" finished-at="2019-09-04T09:43:15Z">
+  <suite name="Test Suite" duration-ms="22465" started-at="2021-05-07T09:17:55Z" finished-at="2021-05-07T09:18:17Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14976" started-at="2019-09-04T09:43:00Z" finished-at="2019-09-04T09:43:15Z">
-      <class name="TestRunner.ApplicationTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:TestRunner.ApplicationTest@246ae04d]" name="setUp" is-config="true" duration-ms="6312" started-at="2019-09-04T15:13:00Z" finished-at="2019-09-04T15:13:06Z">
+    <test name="Test" duration-ms="22465" started-at="2021-05-07T09:17:55Z" finished-at="2021-05-07T09:18:17Z">
+      <class name="TestRunner.Hooks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestRunner.Hooks@6be46e8f]" name="setUp" is-config="true" duration-ms="10711" started-at="2021-05-07T14:47:55Z" finished-at="2021-05-07T14:48:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LoginToTrivago()[pri:0, instance:TestRunner.ApplicationTest@246ae04d]" name="LoginToTrivago" duration-ms="4550" started-at="2019-09-04T15:13:06Z" finished-at="2019-09-04T15:13:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginToTrivago -->
-        <test-method status="PASS" signature="searchHotel()[pri:0, instance:TestRunner.ApplicationTest@246ae04d]" name="searchHotel" duration-ms="4113" started-at="2019-09-04T15:13:11Z" finished-at="2019-09-04T15:13:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchHotel -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestRunner.ApplicationTest@246ae04d]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-04T15:13:15Z" finished-at="2019-09-04T15:13:15Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestRunner.Hooks@6be46e8f]" name="tearDown" is-config="true" duration-ms="857" started-at="2021-05-07T14:48:16Z" finished-at="2021-05-07T14:48:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
+      </class> <!-- TestRunner.Hooks -->
+      <class name="TestRunner.ApplicationTest">
+        <test-method status="PASS" signature="LoginToTrivago()[pri:0, instance:TestRunner.ApplicationTest@47f6473]" name="LoginToTrivago" duration-ms="5048" started-at="2021-05-07T14:48:05Z" finished-at="2021-05-07T14:48:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToTrivago -->
+        <test-method status="PASS" signature="searchHotel()[pri:0, instance:TestRunner.ApplicationTest@47f6473]" name="searchHotel" duration-ms="5827" started-at="2021-05-07T14:48:10Z" finished-at="2021-05-07T14:48:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHotel -->
       </class> <!-- TestRunner.ApplicationTest -->
     </test> <!-- Test -->
   </suite> <!-- Test Suite -->
